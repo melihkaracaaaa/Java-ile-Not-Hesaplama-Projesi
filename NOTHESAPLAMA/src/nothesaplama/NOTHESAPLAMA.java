@@ -36,7 +36,7 @@ public class NOTHESAPLAMA {
           }
         
           else  {
-              System.out.println(" GEÇERSİZ NOT ");
+              System.out.println(" GECERSİZ NOT ");
     }
                 
 }
